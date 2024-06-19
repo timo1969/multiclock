@@ -18,7 +18,7 @@ Due to its multithreading capabilities, multiple timers and alarms can be set at
 
 ## Installation
 
-multiclock requires [ncurses](https://invisible-island.net/ncurses/announce.html#h2-overview), [pthread](https://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread.h.html), and [SDL2](https://www.libsdl.org/) to run. 
+multiclock requires [ncurses](https://invisible-island.net/ncurses/announce.html#h2-overview), [SDL2](https://www.libsdl.org/), and [pthread](https://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread.h.html) to run. 
 
 These are common libraries but may still have to be installed depending on the users operating system and environment. 
 
